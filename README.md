@@ -41,3 +41,4 @@ Upon starting the program, it should as the user what action they want to perfor
 6) Quit
 Please choose what you'd like to do with the database:
 The user must enter a number 1-6. If the user enters invalid input, print an error message and show the main menu again to take in a new input.
+
